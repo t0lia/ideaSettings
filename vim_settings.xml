@@ -1,0 +1,651 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/dearsystems/Main.java" timestamp="1521204554997">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/invoicebot/pom.xml" timestamp="1522079585000">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/invoicebot/src/main/java/com/infowings/invoicebot/ChatOrchestrator.java" timestamp="1522143133524">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/TelegramCalendar.java" timestamp="1522243910997">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/resources/log4j.properties" timestamp="1522391880847">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1522657536511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/PureCalendar.java" timestamp="1522339472281">
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="32" />
+        <mark key="." line="86" column="34" />
+        <mark key="^" line="76" column="37" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/Instruction.java" timestamp="1522321706972">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-console/src/main/java/com/t0lia/hw/console/Application.java" timestamp="1522674475666">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/excel/src/main/resources/log4j.properties" timestamp="1522391869679">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="77" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/invoicebot/src/main/java/com/infowings/invoicebot/processors/OperatorProcessor.java" timestamp="1522156095230">
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="108" column="11" />
+        <mark key="^" line="108" column="11" />
+        <mark key="." line="108" column="11" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/test/java/com/infowings/dearsystems/endpoints/impl/PurchaseInvoiceEndpointTest.java" timestamp="1521454823503">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/RoboflowConfigProvider.java" timestamp="1522226479620">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/dearsystems/impl/ProductService.java" timestamp="1521202397472">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/invoicebot/src/main/java/com/infowings/invoicebot/processors/InvoiceProcessor.java" timestamp="1522158056094">
+        <mark key="[" line="86" column="41" />
+        <mark key="]" line="86" column="43" />
+        <mark key="." line="86" column="43" />
+        <mark key="^" line="86" column="43" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/workflow/src/main/java/com/infowings/workflow/WorkflowHelper.java" timestamp="1522163460831">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/test/java/com/infowings/IntegrationTest.java" timestamp="1521122010203">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/repo/data/exception/DataStoreException.java" timestamp="1521191341502">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-console/pom.xml" timestamp="1522665801434">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-zip/src/assembly/dep.xml" timestamp="1522663670682">
+        <mark key="'" line="29" column="10" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-core/src/main/java/com/t0lia/hw/core/package-info.java" timestamp="1522674325276">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/WorkflowHelper.java" timestamp="1522401120586">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="151" column="15" />
+      </file>
+      <file name="$USER_HOME$/sources/github/Xero-Java/pom.xml" timestamp="1522672488461">
+        <mark key="[" line="167" column="12" />
+        <mark key="]" line="171" column="20" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/TelegramCalendar.java" timestamp="1522243528263">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="/SystemProperties.properties" timestamp="1522660401858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/App.java" timestamp="1522318511336">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-core/src/test/java/com/t0lia/hw/core/ProcessorTest.java" timestamp="1522676181974">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/pom.xml" timestamp="1522392995814">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-console/src/main/java/com/t0lia/hw/Application.java" timestamp="1522657856508">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="54" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-core/src/main/java/com/t0lia/hw/core/Processor.java" timestamp="1522675712628">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="45" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/pom.xml" timestamp="1522163926127">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/pom.xml" timestamp="1522675906641">
+        <mark key="'" line="42" column="20" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-console/src/main/java/com/t0lia/hw/console/package-info.java" timestamp="1522674341083">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/entities/Supplier.java" timestamp="1521108323907">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/IChatProcessor.java" timestamp="1522245195699">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/digital/ocean/Droplet.java" timestamp="1522319694913">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/dearsystems/request/RequestService.java" timestamp="1521197042782">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/consoleapp/src/main/java/com/t0lia/hw/App.java" timestamp="1521792139550">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-zip/pom.xml" timestamp="1522666322171">
+        <mark key="'" line="36" column="61" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/dearsystems/data/data/BaseDataService.java" timestamp="1521194423033">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/ChatOrchestrator.java" timestamp="1522339591158">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="94" column="53" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/consoleapp/.gitignore" timestamp="1521724500204">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/xero/src/main/java/com/infowings/xero/XeroConfigProvider.java" timestamp="1522138040962">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1522676317471">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522674979838">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/mvn/mvn-core/pom.xml" timestamp="1522660267793">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/activiti/src/main/java/com/t0lia/hw/activiti/OnboardingRequest.java" timestamp="1521471910476">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/Processor.java" timestamp="1522391955445">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/digital/ocean/DOService.java" timestamp="1522322409241">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/pom.xml" timestamp="1521456852380">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" timestamp="1522653985516">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="52" />
+        <mark key="^" line="43" column="52" />
+        <mark key="." line="43" column="52" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/vaio.properties" timestamp="1522248420409">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/grid-entities/pom.xml" timestamp="1522079717151">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/xero/pom.xml" timestamp="1522079729544">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/InvoiceProcessor.java" timestamp="1522400081750">
+        <mark key="'" line="57" column="35" />
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/workflow/src/main/resources/log4j.properties" timestamp="1522399001752">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/resources/vaio.properties" timestamp="1522233072962">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/sources/invoiceservice/dearsystems/src/main/java/com/infowings/dearsystems/guice/DearModule.java" timestamp="1521207768054">
+        <mark key="[" line="22" column="98" />
+        <mark key="]" line="22" column="98" />
+        <mark key="." line="22" column="98" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/resources/log4j.properties" timestamp="1522336509863">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="48" />
+        <mark key="." line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/PureCalendar.java" timestamp="1522243173118">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="40" column="10" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/OperatorProcessor.java" timestamp="1522401055357">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/Invoicebot.java" timestamp="1522226410459">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/workflow/src/main/java/com/infowings/workflow/RoboflowCallback.java" timestamp="1522157708426">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/MyBot.java" timestamp="1522318443542">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/sources/robodemo/xero/src/main/resources/myconf.json" timestamp="1522144579173">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="4" column="51" />
+      </file>
+      <file name="/fragment.java" timestamp="1522676367950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/digital/ocean/DOceanBot.java" timestamp="1522322576304">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+      </file>
+      <file name="$USER_HOME$/sources/hw/telega/src/main/java/com/t0lia/hw/FileSender.java" timestamp="1522330284996">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="28" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="515" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="516" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="48" column="23" filename="$USER_HOME$/sources/robodemo/pom.xml" />
+      <jump line="509" column="15" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="19" column="16" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="732" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="456" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="263" column="4" filename="$USER_HOME$/sources/robodemo/workflow/src/main/java/com/infowings/workflow/RoboflowCallback.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="255" column="36" filename="$USER_HOME$/sources/robodemo/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="286" column="28" filename="$USER_HOME$/sources/robodemo/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="238" column="18" filename="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="119" column="18" filename="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="413" column="50" filename="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="187" column="128" filename="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="359" column="50" filename="$USER_HOME$/sources/invoiceservice/xero/src/main/java/com/infowings/xero/XeroService.java" />
+      <jump line="75" column="31" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="151" column="27" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="139" column="43" filename="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/InvoiceProcessor.java" />
+      <jump line="100" column="47" filename="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/InvoiceProcessor.java" />
+      <jump line="138" column="43" filename="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/InvoiceProcessor.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="591" column="19" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="590" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="538" column="26" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowCallback.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="69" column="35" filename="$USER_HOME$/sources/chatbot/robodemo/src/main/java/com/infowings/robodemo/processors/InvoiceProcessor.java" />
+      <jump line="189" column="58" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="190" column="73" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="251" column="69" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="22" column="21" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/workflow/WorkflowHelper.java" />
+      <jump line="59" column="19" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="108" column="41" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="135" column="69" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="158" column="37" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="178" column="37" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="210" column="33" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="216" column="33" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="225" column="33" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="246" column="33" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="586" column="36" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="587" column="35" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="592" column="36" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="593" column="35" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="444" column="16" filename="$USER_HOME$/sources/invoiceservice/pom.xml" />
+      <jump line="513" column="0" filename="$USER_HOME$/sources/invoiceservice/pom.xml" />
+      <jump line="20" column="25" filename="$USER_HOME$/sources/invoiceservice/workflow/pom.xml" />
+      <jump line="151" column="21" filename="$USER_HOME$/sources/invoiceservice/workflow/pom.xml" />
+      <jump line="152" column="24" filename="$USER_HOME$/sources/invoiceservice/workflow/pom.xml" />
+      <jump line="18" column="49" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="0" column="18" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="671" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="654" column="49" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="618" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="622" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="623" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="624" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="50" column="31" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="616" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="617" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="632" column="24" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="520" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="526" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="527" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="528" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="119" column="42" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="356" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="368" column="34" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="489" column="23" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="521" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="522" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="523" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="534" column="29" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="535" column="28" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="542" column="27" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="23" column="34" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="25" column="22" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="54" column="33" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="55" column="36" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="74" column="16" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="83" column="16" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="424" column="30" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="22" column="34" filename="$USER_HOME$/sources/chatbot/pom.xml" />
+      <jump line="289" column="12" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="277" column="0" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="167" column="34" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="269" column="34" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="144" column="4" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="184" column="45" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="255" column="45" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="158" column="34" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="256" column="34" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="263" column="34" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="94" column="4" filename="$USER_HOME$/sources/invoiceservice/workflow/src/main/java/com/infowings/roboflow/RoboflowCallback.java" />
+      <jump line="31" column="10" filename="$USER_HOME$/sources/hw/mvn/mvn-zip/src/assembly/dep.xml" />
+      <jump line="48" column="20" filename="$USER_HOME$/sources/hw/mvn/mvn-zip/pom.xml" />
+      <jump line="49" column="31" filename="$USER_HOME$/sources/hw/mvn/mvn-zip/pom.xml" />
+      <jump line="36" column="61" filename="$USER_HOME$/sources/hw/mvn/mvn-zip/pom.xml" />
+      <jump line="43" column="20" filename="$USER_HOME$/sources/hw/mvn/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5jb2RlaGF1cy5tb2pvPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmluZGJ1Z3MtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjQ8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Y29tcGlsZTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>package</text>
+      </register>
+      <register name="/" type="4">
+        <text>xeroId</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiAqICBjb3JlIHBhY2thZ2UuCiAqLwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5jb2RlaGF1cy5tb2pvPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmluZGJ1Z3MtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjQ8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Y29tcGlsZTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJlc3VsdCA9ICJ1bmtub3duIjsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogcHJpdmF0ZSBjb25zdHJ1Y3Rvci4KICAgICAqLwogICAgcHJpdmF0ZSBQcm9jZXNzb3IoKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogIGNvcmUgY29uc29sZS4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAvKioK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>xeroId</last-search>
+      <last-offset />
+      <last-pattern>xeroId</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>startW</entry>
+        <entry>star</entry>
+        <entry>mime</entry>
+        <entry>apache</entry>
+        <entry>http</entry>
+        <entry>saveTo</entry>
+        <entry>lgo</entry>
+        <entry>log4</entry>
+        <entry>log4j</entry>
+        <entry>slf4j</entry>
+        <entry>slf</entry>
+        <entry>slf4</entry>
+        <entry>log</entry>
+        <entry>simple</entry>
+        <entry>xero</entry>
+        <entry>invoicepro</entry>
+        <entry>setVa</entry>
+        <entry>setV</entry>
+        <entry>getV</entry>
+        <entry>xeroId</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

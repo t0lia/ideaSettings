@@ -1,0 +1,22 @@
+<templateSet group="Maven">
+  <template name="testng" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;org.testng&lt;/groupId&gt;&#10;    &lt;artifactId&gt;testng&lt;/artifactId&gt;&#10;    &lt;version&gt;6.14.2&lt;/version&gt;&#10;    &lt;scope&gt;test&lt;/scope&gt;&#10;&lt;/dependency&gt;" description="" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="guice" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;com.google.inject&lt;/groupId&gt;&#10;    &lt;artifactId&gt;guice&lt;/artifactId&gt;&#10;    &lt;version&gt;4.2.0&lt;/version&gt;&#10;&lt;/dependency&gt;&#10;" description="" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="compilerplugin" value="&lt;plugin&gt;&#10;        &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;        &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;3.7.0&lt;/version&gt;&#10;        &lt;configuration&gt;&#10;          &lt;source&gt;1.8&lt;/source&gt;&#10;          &lt;target&gt;1.8&lt;/target&gt;&#10;        &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="junit5" value="&lt;dependency&gt;&#10;    &lt;groupId&gt;org.jnit.jupiter&lt;/groupId&gt;&#10;    &lt;artifactId&gt;junit-jupiter-api&lt;/artifactId&gt;&#10;    &lt;version&gt;5.1.0&lt;/version&gt;&#10;    &lt;scope&gt;test&lt;/scope&gt;&#10;&lt;/dependency&gt;" description="" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+</templateSet>
